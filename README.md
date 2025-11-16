@@ -1,6 +1,6 @@
 ## Laravel Application with CRUD operations with Passport authentication 
 
-This is a simple Laravel 10+ API for **user registration, login, and task management** using **Laravel Passport** for authentication.
+API for **user registration, login, and task management** using **Laravel Passport** for authentication.
 
 ##  Features
 
